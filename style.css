@@ -1,0 +1,10 @@
+body {
+  background-color: #1d1d1d;
+  font-family: serif;
+}
+
+h1 {
+  color: rgba(255, 255, 0, 0.573);
+  font-size: 50px;
+  text-align: center;
+}
